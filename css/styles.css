@@ -10,8 +10,6 @@ body {
 }
 
 .container h1 {
-    font-weight: bold;
-    font-size: 32px;
     margin: 82px 0 72px;
 }
 
@@ -43,11 +41,12 @@ body {
     font-weight: bold;
     font-size: 16px;
     text-align: center;
+    text-transform: uppercase;
 }
 
 .title {
-    font-weight: 700;
-    font-style: 48px;
+    font-weight: bold;
+    font-size: 32px;
     text-transform: uppercase;
     text-align: center;
 }
